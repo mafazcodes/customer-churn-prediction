@@ -12,4 +12,4 @@
 - Model comparison & hyperparameter
 ### 📂 Project Files
 - notebook.ipynb → main training notebook
-- data/ → dataset 
+- Data → dataset 
